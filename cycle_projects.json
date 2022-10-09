@@ -193,6 +193,17 @@
       "state": {"key": "approved"},
       "last_updated": "2019-07-31",
       "last_cited": "2022-09-29"
+    },
+    {
+      "key": 13,
+      "title": "Curlewis St Streetscape Upgrade",
+      "url": "https://haveyoursay.waverley.nsw.gov.au/curlewisstreetscape",
+      "lga": "waverley",
+      "geometry":{"type":"LineString","coordinates":[[151.27564162015915,-33.88982421203365],[151.26933574676514,-33.88567830853759]]},
+      "tags":[{"key":"separated-cycleway"},{"key":"shared-path"}],
+      "state":{"key":"approved"},
+      "last_update":"2022-08-01",
+      "last_cited":"2022-10-09"
     }
   ]
 }
