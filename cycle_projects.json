@@ -303,6 +303,17 @@
       "state":{"key":"under-review"},
       "last_updated":"2022-01-01",
       "last_cited":"2022-10-10"
+    },
+    {
+      "key":23,
+      "title":"Carter Street Bridges and Cycleway",
+      "url":"https://participate.cityofparramatta.nsw.gov.au/carter-street-bridges-and-cycleway",
+      "lga":"parramatta",
+      "geometry":{"type":"LineString","coordinates":[[151.06271982192993,-33.852864683105246],[151.05465173721313,-33.84867688725873]]},
+      "tags":[{"key":"separated-cycleway"},{"key":"shared-path"}],
+      "state":{"key":"approved"},
+      "last_updated":"2022-03-14",
+      "last_cited":"2022-10-10"
     }
   ]
 }
