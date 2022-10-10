@@ -259,6 +259,17 @@
       "state":{"key":"open-for-comment"},
       "last_updated":"2022-09-01",
       "last_cited":"2022-10-10"
+    },
+    {
+      "key":19,
+      "title":"Alfred Street Pedestrian and Cyclist Bridge",
+      "url":"https://participate.cityofparramatta.nsw.gov.au/alfred-street-bridge",
+      "lga":"parramatta",
+      "geometry":{"type":"LineString","coordinates":[[151.017706990242,-33.81646855268918],[151.01794302463531,-33.81506907773834]]},
+      "tags":[{"key":"offroad"},{"key":"shared-path"}],
+      "state":{"key":"under-construction"},
+      "last_updated":"2022-01-01",
+      "last_cited":"2022-10-10"
     }
   ]
 }
