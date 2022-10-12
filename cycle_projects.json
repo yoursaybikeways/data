@@ -358,6 +358,17 @@
       "state":{"key":"under-construction"},
       "last_updated":"2022-02-14",
       "last_cited":"2022-10-12"
+    },
+    {
+      "key":28,
+      "title":"Glen Street, Belrose Shared Path",
+      "url":"https://yoursay.northernbeaches.nsw.gov.au/glen-street-belrose-shared-path",
+      "lga":"northern-beaches",
+      "geometry":{"type":"LineString","coordinates":[[151.2200528383255,-33.73878984243572],[151.21654987335205,-33.739882764206655],[151.21615290641785,-33.739882764206655]]},
+      "tags":[{"key":"shared-path"}],
+      "state":{"key":"operating"},
+      "last_updated":"",
+      "last_cited":"2022-10-12"
     }
   ]
 }
