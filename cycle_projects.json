@@ -369,6 +369,17 @@
       "state":{"key":"operating"},
       "last_updated":"",
       "last_cited":"2022-10-12"
+    },
+    {
+      "key":29,
+      "title":"Addiscombe Road, Manly Vale path upgrade",
+      "url":"https://yoursay.northernbeaches.nsw.gov.au/addiscombe-road-manly-vale-shared-path",
+      "lga":"northern-beaches",
+      "geometry":{"type":"LineString","coordinates":[[151.274351477623,-33.78168437018297],[151.27490401268003,-33.78221941272723],[151.27508640289307,-33.782469098103995],[151.27521514892578,-33.783418787619304],[151.27536535263062,-33.78398057082586]]},
+      "tags":[{"key":"shared-path"}],
+      "state":{"key":"operating"},
+      "last_updated":"",
+      "last_cited":"2022-10-13"
     }
   ]
 }
