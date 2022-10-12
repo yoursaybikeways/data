@@ -347,6 +347,17 @@
       "state":{"key":"operating"},
       "last_updated":"",
       "last_cited": "2022-10-12"
+    },
+    {
+      "key":27,
+      "title":"Forest Way, Belrose Shared Path",
+      "url":"https://yoursay.northernbeaches.nsw.gov.au/forestway-belrose-shared-path",
+      "lga":"northern-beaches",
+      "geometry":{"type":"LineString","coordinates":[[151.2125587463379,-33.70077873307383],[151.21489763259888,-33.704813108289734],[151.21678590774536,-33.70841889391484],[151.21702194213867,-33.71045377541507],[151.2171506881714,-33.71368449699316],[151.21678590774536,-33.720448984352494],[151.21687173843384,-33.72160906716473],[151.2171721458435,-33.72214448471351]]},
+      "tags":[{"key":"shared-path"}],
+      "state":{"key":"under-construction"},
+      "last_updated":"2022-02-14",
+      "last_cited":"2022-10-12"
     }
   ]
 }
