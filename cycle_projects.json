@@ -314,6 +314,17 @@
       "state":{"key":"approved"},
       "last_updated":"2022-03-14",
       "last_cited":"2022-10-10"
+    },
+    {
+      "key":24,
+      "title":"West Street Cycling, Walking and Streetscape Upgrades - Stage 1",
+      "url":"https://yoursay.northsydney.nsw.gov.au/west-street",
+      "lga":"north-sydney",
+      "geometry":{"type":"LineString","coordinates":[[151.20473474264145,-33.83372166228817],[151.20527118444443,-33.83348772244405],[151.2053006887436,-33.83342311037427],[151.2055018544197,-33.83248065980484]]},
+      "tags":[{"key":"separated-cycleway"},{"key":"shared-path"}],
+      "state":{"key":"open-for-comment"},
+      "last_updated":"2022-10-04",
+      "last_cited":"2022-10-12"
     }
   ]
 }
