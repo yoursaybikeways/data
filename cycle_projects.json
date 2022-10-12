@@ -336,6 +336,17 @@
       "state":{"key":"approved"},
       "last_updated":"2022-04-05",
       "last_cited":"2022-10-12"
+    },
+    {
+      "key":26,
+      "title":"Aquatic Drive, Frenchs Forest Shared Path",
+      "url":"https://yoursay.northernbeaches.nsw.gov.au/aquatic-drive-frenchs-forest-shared-path",
+      "lga":"northern-beaches",
+      "geometry":{"type":"LineString","coordinates":[[151.2339198589325,-33.75461131456822],[151.2430715560913,-33.75589581682769]]},
+      "tags":[{"key":"shared-path"}],
+      "state":{"key":"operating"},
+      "last_updated":"",
+      "last_cited": "2022-10-12"
     }
   ]
 }
