@@ -395,6 +395,16 @@
       "state":{"key":"under-construction"},
       "last_updated":"2021-05-01",
       "last_cited":"2022-10-16"
+    },
+    {
+      "key":31,
+      "title":"Changes to bike connections on Gadigal Avenue, Crystal and Potter streets, Waterloo",
+      "url":"https://www.cityofsydney.nsw.gov.au/improving-streets-public-spaces/changes-bike-connections-gadigal-avenue-crystal-potter-streets-waterloo",
+      "geometry":{"type":"LineString","coordinates":[[151.21298521757123,-33.8980597565989],[151.21273040771484,-33.89936436843456],[151.2130844593048,-33.89941112036537],[151.2132105231285,-33.89947122995302],[151.21324807405472,-33.89970498905776]]},
+      "tags":[{"key":"separated-cycleway"},{"key":"shared-path"}],
+      "state":{"key":"operating"},
+      "last_updated":"",
+      "last_cited":"2022-10-16"
     }
   ]
 }
