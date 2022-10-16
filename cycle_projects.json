@@ -425,6 +425,26 @@
       "state":{"key":"under-review"},
       "last_updated":"2021-11-25",
       "last_cited":"2022-10-16"
+    },
+    {
+      "key":34,
+      "title":"New cycleway and walking improvements for King Street",
+      "url":"https://www.cityofsydney.nsw.gov.au/improving-streets-public-spaces/new-cycleway-walking-improvements-king-street",
+      "geometry":{"type":"LineString","coordinates":[[151.2082216143608,-33.86886551801392],[151.2104371190071,-33.86916394608151],[151.21097892522812,-33.869228531122985],[151.2110459804535,-33.86918621679098],[151.2110835313797,-33.8690971339182]]},
+      "tags":[{"key":"separated-cycleway"},{"key":"shared-path"}],
+      "state":{"key":"under-construction"},
+      "last_updated":"2022-01-01",
+      "last_cited":"2022-10-16"
+    },
+    {
+      "key":35,
+      "title":"Pitt Street permanent cycleway construction",
+      "url":"https://www.cityofsydney.nsw.gov.au/improving-streets-public-spaces/pitt-street-permanent-cycleway-construction",
+      "geometry":{"type":"LineString","coordinates":[[151.20828330516815,-33.86887219925073],[151.20863467454907,-33.86567628127984],[151.20909065008163,-33.86244683497917]]},
+      "tags":[{"key":"separated-cycleway"}],
+      "state":{"key":"under-construction"},
+      "last_updated":"",
+      "last_cited":"2022-10-16"
     }
   ]
 }
