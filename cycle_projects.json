@@ -41,7 +41,8 @@
     {"key": "cumberland"},
     {"key": "parramatta"},
     {"key": "hornsby"},
-    {"key": "willoughby"}
+    {"key": "willoughby"},
+    {"key": "hills-shire"}
   ],
   "projects": [
     {
@@ -495,6 +496,17 @@
       "tags":[{"key":"shared-path"},{"key":"mixed-traffic"}],
       "state":{"key":"under-review"},
       "last_updated":"2022-09-12",
+      "last_cited":"2022-10-24"
+    },
+    {
+      "key":40,
+      "title":"Landscape/Concrete Cycleway - Thomas Boulton Res. & Cottage Point Rd",
+      "url":"https://www.thehills.nsw.gov.au/Building/Road-and-Building-Projects/Council-Works-Projects/Projects-2022/Landscape-and-Concrete-Cycleway-works-at-Thomas-Boulton-Reserve-and-Cottage-Point-Road-Kellyville",
+      "lga":"hills-shire",
+      "geometry":{"coordinates":[[150.94937629871146,-33.715744642145715],[150.94957615934618,-33.714121299135385],[150.94937042045734,-33.71400394784928]],"type":"LineString"},
+      "tags":[{"key":"shared-path"}],
+      "state":{"key":"under-construction"},
+      "last_updated":"",
       "last_cited":"2022-10-24"
     }
   ]
