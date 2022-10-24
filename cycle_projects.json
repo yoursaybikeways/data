@@ -455,6 +455,16 @@
       "state":{"key":"under-construction"},
       "last_updated":"2020-02-01",
       "last_cited":"2022-10-16"
+    },
+    {
+      "key":37,
+      "title":"Proposed boardwalk and shared pathway Brooklyn",
+      "url":"https://yoursay.hornsby.nsw.gov.au/proposed-boardwalk-and-shared-pathway-brooklyn",
+      "geometry":{"coordinates":[[151.19772359469277,-33.549376383816735],[151.1984102607559,-33.54854786336299],[151.19909692681892,-33.54794995706926],[151.19910717556644,-33.54730933859087],[151.19872797192045,-33.546070796067845],[151.19824628079994,-33.54479806836172],[151.19844212987545,-33.543666911063],[151.19901605971978,-33.54228310061723],[151.19952849708108,-33.54206100551977],[151.19980521325584,-33.54212080040997]],"type":"LineString"},
+      "tags":[{"key":"shared-path"}],
+      "state":{"key":"under-review"},
+      "last_updated":"2022-06-08",
+      "last_cited":"2022-10-24"
     }
   ]
 }
