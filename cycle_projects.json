@@ -530,6 +530,39 @@
       "state":{"key":"open-for-comment"},
       "last_updated":"2022-10-10",
       "last_cited":"2022-10-24"
+    },
+    {
+      "key":43,
+      "title":"Your feedback on designs for a quiet way in Rosebery",
+      "url":"https://www.cityofsydney.nsw.gov.au/proposed-works-maintenance/quiet-way-rosebery",
+      "lga":"city-of-sydney",
+      "geometry":{"coordinates":[[151.2075028137495,-33.910809578329314],[151.20711943508405,-33.91203632614148],[151.2068500616316,-33.913006535035564],[151.2064029016994,-33.91436570311242],[151.20565404349975,-33.91664136691784],[151.20443486116926,-33.9202013806345],[151.20400386364037,-33.92249030004543]],"type":"LineString"},
+      "tags":[{"key":"mixed-traffic"},{"key":"offroad"}],
+      "state":{"key":"under-review"},
+      "last_updated":"2022-07-11",
+      "last_cited":"2022-10-25"
+    },
+    {
+      "key":44,
+      "title":"Building the Green Square to Ashmore connector",
+      "url":"https://www.cityofsydney.nsw.gov.au/building-new-infrastructure/building-green-square-ashmore-connector",
+      "lga":"city-of-sydney",
+      "geometry":{"coordinates":[[151.2028611578616,-33.907796706472006],[151.20091366805246,-33.90760945285093],[151.20019523431296,-33.90774742924355],[151.19888899114943,-33.907205377844335],[151.19859805517098,-33.90691463976531]],"type":"LineString"},
+      "tags":[{"key":"separated-cycleway"}],
+      "state":{"key":"under-construction"},
+      "last_updated":",
+      "last_cited":"2022-10-25"
+    },
+    {
+      "key":45,
+      "title":"Sydney Park Junction",
+      "url":"https://roads-waterways.transport.nsw.gov.au/projects/sydney-park-junction/index.html",
+      "lga":"",
+      "geometry":{"coordinates":[[151.18702455463534,-33.90746422096942],[151.18270128611914,-33.90691221120985],[151.18226420842365,-33.90692009708892],[151.18147556823294,-33.907093586238545],[151.18116201249325,-33.90865497270618]],"type":"LineString"},
+      "tags":[{"key":"separated-cycleway"},{"key":"shared-path"}],
+      "state":{"key":"under-review"},
+      "last_updated":"2022-03-01",
+      "last_cited":"2022-10-25"
     }
   ]
 }
