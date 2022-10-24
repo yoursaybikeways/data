@@ -465,6 +465,16 @@
       "state":{"key":"under-review"},
       "last_updated":"2022-06-08",
       "last_cited":"2022-10-24"
+    },
+    {
+      "key":38,
+      "title":"Edward St, Willoughby proposed pedestrian, cycling and traffic calming works",
+      "url":"https://www.haveyoursaywilloughby.com.au/edward-st-willoughby-proposed-traffic-works",
+      "geometry":{"coordinates":[[151.19669384229303,-33.81018098432169],[151.19700495993607,-33.80853762694815],[151.19716051875764,-33.808168328812265],[151.19770497463304,-33.805490869660055]],"type":"LineString"},
+      "tags":[{"key":"mixed-traffic"}],
+      "state":{"key":"under-review"},
+      "last_updated":"2022-09-07",
+      "last_cited":"2022-10-24"
     }
   ]
 }
