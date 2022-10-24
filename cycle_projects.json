@@ -508,6 +508,17 @@
       "state":{"key":"under-construction"},
       "last_updated":"",
       "last_cited":"2022-10-24"
+    },
+    {
+      "key":41,
+      "title":"New Cycleway Construction - Bella Vista Farm, Bella Vista",
+      "url":"https://www.thehills.nsw.gov.au/Building/Road-and-Building-Projects/Council-Works-Projects/Projects-2022/New-Cycleway-Construction-Bella-Vista-Farm-Bella-Vista",
+      "lga":"hills-shire",
+      "geometry":{"coordinates":[[150.9542264784679,-33.73942801500568],[150.95440510669863,-33.739770804136015],[150.95500969454815,-33.740125018130996],[150.95528450720747,-33.74047351756944],[150.9554219135382,-33.74127906003374],[150.95566237461435,-33.74194177014768],[150.95545626512148,-33.74239309565697],[150.95556619018333,-33.74277586353101],[150.9558187095073,-33.74301876694241],[150.9557552528796,-33.74334016260959],[150.9555533454335,-33.743805464649895],[150.9551437617551,-33.743651963224394],[150.9543015192645,-33.74258703952617],[150.9540073112691,-33.74253427269224]],"type":"LineString"},
+      "tags":[{"key":"shared-path"}],
+      "state":{"key":"under-construction"},
+      "last_updated":"",
+      "last_cited":"2022-10-24"
     }
   ]
 }
