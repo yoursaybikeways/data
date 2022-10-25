@@ -259,7 +259,7 @@
       "lga":"parramatta",
       "geometry":{"type":"LineString","coordinates":[[151.017352938652,-33.81766299090527],[151.01691842079163,-33.81866131452752],[151.0158348083496,-33.82577848943467]]},
       "tags":[{"key":"separated-cycleway"},{"key":"shared-path"}],
-      "state":{"key":"open-for-comment"},
+      "state":{"key":"under-review"},
       "last_updated":"2022-09-01",
       "last_cited":"2022-10-10"
     },
