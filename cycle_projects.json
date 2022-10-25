@@ -594,8 +594,8 @@
     },
     {
       "key":48,
-      "title":"",
-      "url":"",
+      "title":"Bondi Junction Cycleway & Streetscape Upgrade",
+      "url":"https://www.waverley.nsw.gov.au/building/major_projects/streets_and_public_places/bondi_junction_cycleway",
       "lga":"waverley",
       "geometry":{"type":"MultiLineString","coordinates":[
         [[151.2531845009886,-33.89107234513528],[151.25232711571851,-33.891375351891924],[151.2520328316661,-33.891542122593634],[151.25155905451544,-33.8918094656895],[151.2498188170863,-33.89211246982828],[151.2496943122929,-33.89266210249309],[151.2495036357176,-33.89370697966703]],
@@ -605,6 +605,17 @@
       "state":{"key":"under-construction"},
       "last_updated":"2022-08-29",
       "last_cited":"2022-10-25"
+    },
+    {
+      "key":50,
+      "title":"Pennant Hills to Epping – Shared Footpath and Cycleway – Route B",
+      "url":"https://www.hornsby.nsw.gov.au/council/noticeboard/works/infrastructure-works/proposed-works/Pennant-Hills-to-Epping-Shared-Footpath-and-Cycleway-Route-B",
+      "lga":"hornsby",
+      "geometry":{"coordinates":[[151.07779511473183,-33.75562515391772],[151.07730026198618,-33.755408612578044],[151.07628776722663,-33.755135228355016],[151.0701340017671,-33.75425991558517],[151.0679381061588,-33.753708023568116],[151.06745420746938,-33.753547658095314],[151.0665950347243,-33.7530190400761],[151.0660107972559,-33.752354691185936],[151.06574445370546,-33.751468884659076]],"type":"LineString"},
+      "tags":[{"key":"shared-path"}],
+      "state":{"key":"under-construction"},
+      "last_updated":"2022-09-01",
+      "last_cited":"2022-10-26"
     }
   ]
 }
