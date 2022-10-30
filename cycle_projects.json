@@ -630,6 +630,17 @@
       "state":{"key":"operating"},
       "last_updated":"2021-05-01",
       "last_cited":"2022-10-26"
+    },
+    {
+      "key":52,
+      "title":"Your feedback on designs for a cycleway and footpath extensions on Castlereagh Street, Sydney",
+      "url":"https://www.cityofsydney.nsw.gov.au/proposed-works-maintenance/designs-cycleway-footpath-extensions-castlereagh-street-sydney",
+      "lga":"city-of-sydney",
+      "geometry":{"coordinates":[[151.20875287548057,-33.87684230806785],[151.20940879738743,-33.87106524095482],[151.20948672870293,-33.870747103060125],[151.20967619098212,-33.86903682878202]],"type":"LineString"},
+      "tags":[{"key":"separated-cycleway"}],
+      "state":{"key":"under-review"},
+      "last_updated":"2022-05-06",
+      "last_cited":"2022-10-31"
     }
   ]
 }
