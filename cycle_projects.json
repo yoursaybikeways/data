@@ -638,8 +638,19 @@
       "lga":"city-of-sydney",
       "geometry":{"coordinates":[[151.20875287548057,-33.87684230806785],[151.20940879738743,-33.87106524095482],[151.20948672870293,-33.870747103060125],[151.20967619098212,-33.86903682878202]],"type":"LineString"},
       "tags":[{"key":"separated-cycleway"}],
-      "state":{"key":"under-review"},
+      "state":{"key":"approved","source":"https://meetings.cityofsydney.nsw.gov.au/documents/s62638/Project%20Scope%20-%20Castlereagh%20Street%20Cycleway.pdf"},
       "last_updated":"2022-05-06",
+      "last_cited":"2022-10-31"
+    },
+    {
+      "key":53,
+      "title":"Chatswood to St Leonards Bicycle Route Draft Detailed Design plans",
+      "url":"https://www.haveyoursaywilloughby.com.au/Chatswood_StLeonards_PBN",
+      "lga":"willoughby",
+      "geometry":{"coordinates":[[151.18075161752165,-33.80479292012018],[151.18152113594,-33.80608381903594],[151.1825882982775,-33.807435019470525],[151.18271897121497,-33.80747724414028],[151.18286416337054,-33.80744105156761],[151.18304179140245,-33.807482377425],[151.18407991530836,-33.80839925077442],[151.1851252988198,-33.80912309121562],[151.18652640311115,-33.80983486167765],[151.1868385662437,-33.81021487229634],[151.18875623292467,-33.8128609963214],[151.18909017487857,-33.81336162716964],[151.18946111767912,-33.81419808231516],[151.1902887129607,-33.81538630326975],[151.19094933726535,-33.815977391810016],[151.19277875840686,-33.81845630028071],[151.19356279604284,-33.82277461643047],[151.1938822187832,-33.82344405653415]],"type":"LineString"},
+      "tags":[{"key":"separated-cycleway"},{"key":"shared-path"}],
+      "state":{"key":"approved","source":"https://willoughbyliving.com.au/artarmon-and-st-leonards-cycleway-fast-tracked/"},
+      "last_updated":"2021-06-01",
       "last_cited":"2022-10-31"
     }
   ]
