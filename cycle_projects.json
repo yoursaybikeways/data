@@ -527,9 +527,9 @@
       "lga":"city-of-sydney",
       "geometry":{"coordinates":[[151.2011910059266,-33.88048427352117],[151.1974086519175,-33.88199382790593],[151.19717192030993,-33.881591254107434],[151.19477990369774,-33.881808965753706]],"type":"LineString"},
       "tags":[{"key":"separated-cycleway"}],
-      "state":{"key":"open-for-comment"},
-      "last_updated":"2022-10-10",
-      "last_cited":"2022-10-24"
+      "state":{"key":"under-review"},
+      "last_updated":"2022-11-07",
+      "last_cited":"2022-11-12"
     },
     {
       "key":43,
