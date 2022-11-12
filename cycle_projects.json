@@ -663,6 +663,17 @@
       "state":{"key":"open-for-comment"},
       "last_updated":"2022-10-24",
       "last_cited":"2022-10-31"
+    },
+    {
+      "key":55,
+      "title":"Birrell Street Renewal",
+      "url":"https://haveyoursay.waverley.nsw.gov.au/birrell-street-renewal",
+      "lga":"waverley",
+      "geometry":{"coordinates":[[151.24667970945296,-33.89551618035785],[151.254318640726,-33.89656702689613]],"type":"LineString"},
+      "tags":[{"key":"separated-cycleway"},{"key":"unprotected-cycle-lane"},{"key":"shared-path"},{"key":"mixed-traffic"}],
+      "state":{"key":"open-for-comment"},
+      "last_updated":"2022-11-01",
+      "last_cited":"2022-11-12"
     }
   ]
 }
