@@ -711,6 +711,17 @@
       "state":{"key":"under-construction"},
       "last_updated":"2022-11-21",
       "last_cited":"2022-11-17"
+    },
+    {
+      "key":57,
+      "title":"CANTERBURY TOWN CENTRE UPGRADE",
+      "url":"https://www.cbcity.nsw.gov.au/development/planning-for-the-city/canterbury-town-centre-upgrade",
+      "lga":"canterbury-bankstown",
+      "geometry":{"coordinates":[[151.11743622248815,-33.91310724491145],[151.1176340023402,-33.91328682714003]],"type":"LineString"},
+      "tags":[{"key":"shared-path"}],
+      "state":{"key":"under-construction"},
+      "last_updated":"2022-11-01",
+      "last_cited":"2022-11-21"
     }
   ]
 }
