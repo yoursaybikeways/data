@@ -439,9 +439,9 @@
       "lga":"city-of-sydney",
       "geometry":{"type":"LineString","coordinates":[[151.2082216143608,-33.86886551801392],[151.2104371190071,-33.86916394608151],[151.21097892522812,-33.869228531122985],[151.2110459804535,-33.86918621679098],[151.2110835313797,-33.8690971339182]]},
       "tags":[{"key":"separated-cycleway"},{"key":"shared-path"}],
-      "state":{"key":"under-construction"},
-      "last_updated":"2022-01-01",
-      "last_cited":"2022-10-16"
+      "state":{"key":"operating"},
+      "last_updated":"2022-06-01",
+      "last_cited":"2022-12-14"
     },
     {
       "key":35,
