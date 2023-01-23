@@ -815,7 +815,37 @@
       "state":{"key":"partially-constructed"},
       "last_updated":"2021-11-04",
       "last_cited":"2023-0-11"
+    },
+    {
+      "key":64,
+      "title":"King Street Cycleway",
+      "url":"https://roads-waterways.transport.nsw.gov.au/projects/king-street-cycleway/index.html",
+      "lga":"tfnsw",
+      "geometry":{
+        "coordinates": [
+          [
+            151.20524898014105,
+            -33.86870048575281
+          ],
+          [
+            151.2060087797655,
+            -33.868634899771536
+          ],
+          [
+            151.20693031891682,
+            -33.86870048575281
+          ],
+          [
+            151.20831826999932,
+            -33.86888162793751
+          ]
+        ],
+        "type": "LineString"
+      },
+      "tags":[{"key":"separated-cycleway"}],
+      "state":{"key":"open-for-comment"},
+      "last_updated":"2023-01-01",
+      "last_cited":"2023-01-23"
     }
-
   ]
 }
