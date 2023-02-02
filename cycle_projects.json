@@ -4,7 +4,8 @@
     {"key": "mixed-traffic", "label": "Mixed Traffic"},
     {"key": "offroad", "label": "Off-road"},
     {"key": "shared-path", "label": "Shared Path"},
-    {"key": "unprotected-cycle-lane", "label": "Unprotected Cycle Lane"}
+    {"key": "unprotected-cycle-lane", "label": "Unprotected Cycle Lane"},
+    {"key": "separated-cycleway-removal", "label": "Separated Cycleway Removal"}
   ],
   "states": [
     {"key": "draft", "label": "Draft", "description": "Early designs are available to view"},
@@ -859,6 +860,17 @@
       "state":{"key":"open-for-comment"},
       "last_updated":"2023-01-23",
       "last_cited":"2023-01-23"
+    },
+    {
+      "key":65,
+      "title":"Segment 1 - Heath Street, Five Dock",
+      "url":"https://collaborate.canadabay.nsw.gov.au/ewcycleway/seg1heathst",
+      "lga":"canada-bay",
+      "geometry":{"coordinates":[[151.13870737906956,-33.86689265672115],[151.13938022952118,-33.86878819407324]],"type":"LineString"},
+      "tags":[{"key":"separated-cycleway-removal", "key":"mixed-traffic"}],
+      "state":{"key":"open-for-comment"},
+      "last_updated":"2023-01-25",
+      "last_cited":"2023-02-03"
     }
   ]
 }
