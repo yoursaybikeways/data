@@ -1,0 +1,18 @@
+{
+  "title": "Local bike route 7 - St Peters to Tempe",
+  "url": "https://yoursay.innerwest.nsw.gov.au/lr7",
+  "authority": "inner-west",
+  "tags": [
+    {
+      "key": "mixed-traffic"
+    },
+    {
+      "key": "shared-path"
+    }
+  ],
+  "state": {
+    "key": "partially-constructed"
+  },
+  "last_updated": "2018-03-12",
+  "last_cited": "2022-09-23"
+}

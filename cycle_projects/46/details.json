@@ -1,0 +1,15 @@
+{
+  "title": "Sydney Gateway",
+  "url": "https://caportal.com.au/rms/sydney-gateway",
+  "authority": "",
+  "tags": [
+    {
+      "key": "shared-path"
+    }
+  ],
+  "state": {
+    "key": "under-construction"
+  },
+  "last_updated": "2022-10-01",
+  "last_cited": "2022-10-25"
+}

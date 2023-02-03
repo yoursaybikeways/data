@@ -1,0 +1,18 @@
+{
+  "title": "Sydney Park Junction",
+  "url": "https://roads-waterways.transport.nsw.gov.au/projects/sydney-park-junction/index.html",
+  "authority": "",
+  "tags": [
+    {
+      "key": "separated-cycleway"
+    },
+    {
+      "key": "shared-path"
+    }
+  ],
+  "state": {
+    "key": "under-review"
+  },
+  "last_updated": "2022-03-01",
+  "last_cited": "2022-10-25"
+}

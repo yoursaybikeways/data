@@ -1,0 +1,18 @@
+{
+  "title": "Improved bike routes - St Peters",
+  "url": "https://yoursay.innerwest.nsw.gov.au/st-peters-interchange",
+  "authority": "inner-west",
+  "tags": [
+    {
+      "key": "separated-cycleway"
+    },
+    {
+      "key": "mixed-traffic"
+    }
+  ],
+  "state": {
+    "key": "under-review"
+  },
+  "last_updated": "2021-08-24",
+  "last_cited": "2022-09-22"
+}

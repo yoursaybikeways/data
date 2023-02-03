@@ -1,0 +1,21 @@
+{
+  "title": "Local bike route 18 - Dulwich Hill to Marrickville",
+  "url": "https://yoursay.innerwest.nsw.gov.au/lr18",
+  "authority": "inner-west",
+  "tags": [
+    {
+      "key": "separated-cycleway"
+    },
+    {
+      "key": "shared-path"
+    },
+    {
+      "key": "mixed-traffic"
+    }
+  ],
+  "state": {
+    "key": "operating"
+  },
+  "last_updated": "2018-03-12",
+  "last_cited": "2022-09-23"
+}

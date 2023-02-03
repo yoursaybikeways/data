@@ -1,0 +1,21 @@
+{
+  "title": "https://haveyoursay.bayside.nsw.gov.au/russell-avenue",
+  "url": "https://haveyoursay.bayside.nsw.gov.au/russell-avenue",
+  "authority": "bayside",
+  "tags": [
+    {
+      "key": "unprotected-cycle-lane"
+    },
+    {
+      "key": "shared-path"
+    },
+    {
+      "key": "mixed-traffic"
+    }
+  ],
+  "state": {
+    "key": "operating"
+  },
+  "last_updated": "2021-05-24",
+  "last_cited": "2022-10-09"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Concord to the Bay Cycleway",
+  "url": "https://www.collaborate.canadabay.nsw.gov.au/ewcycleway",
+  "authority": "canada-bay",
+  "tags": [
+    {
+      "key": "separated-cycleway"
+    },
+    {
+      "key": "mixed-traffic"
+    },
+    {
+      "key": "shared-path"
+    },
+    {
+      "key": "offroad"
+    }
+  ],
+  "state": {
+    "key": "under-construction"
+  },
+  "last_updated": "2022-09-01",
+  "last_cited": "2022-10-09"
+}

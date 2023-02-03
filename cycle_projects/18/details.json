@@ -1,0 +1,18 @@
+{
+  "title": "Alfred Street Pedestrian and Cyclist Upgrade",
+  "url": "https://participate.cityofparramatta.nsw.gov.au/alfred-street",
+  "authority": "parramatta",
+  "tags": [
+    {
+      "key": "separated-cycleway"
+    },
+    {
+      "key": "shared-path"
+    }
+  ],
+  "state": {
+    "key": "under-review"
+  },
+  "last_updated": "2022-09-01",
+  "last_cited": "2022-10-10"
+}

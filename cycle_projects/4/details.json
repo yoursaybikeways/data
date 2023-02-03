@@ -1,0 +1,18 @@
+{
+  "title": "Regional bike route 2 - Parramatta Rd to Marrickville Park",
+  "url": "https://yoursay.innerwest.nsw.gov.au/rr2",
+  "authority": "inner-west",
+  "tags": [
+    {
+      "key": "shared-path"
+    },
+    {
+      "key": "mixed-traffic"
+    }
+  ],
+  "state": {
+    "key": "partially-constructed"
+  },
+  "last_updated": "2019-10-23",
+  "last_cited": "2022-09-23"
+}

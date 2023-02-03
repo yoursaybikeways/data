@@ -1,0 +1,21 @@
+{
+  "title": "George Street East Pedestrian & Cyclist Paths",
+  "url": "https://participate.cityofparramatta.nsw.gov.au/george-street-east-paths",
+  "authority": "parramatta",
+  "tags": [
+    {
+      "key": "shared-path"
+    },
+    {
+      "key": "separated-cycleway"
+    },
+    {
+      "key": "mixed-traffic"
+    }
+  ],
+  "state": {
+    "key": "approved"
+  },
+  "last_updated": "2022-04-26",
+  "last_cited": "2022-10-10"
+}

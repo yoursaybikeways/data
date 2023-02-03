@@ -1,0 +1,21 @@
+{
+  "title": "Regional bike route 7 - Lewisham to Newtown",
+  "url": "https://yoursay.innerwest.nsw.gov.au/rr7",
+  "authority": "inner-west",
+  "tags": [
+    {
+      "key": "separated-cycleway"
+    },
+    {
+      "key": "shared-path"
+    },
+    {
+      "key": "mixed-traffic"
+    }
+  ],
+  "state": {
+    "key": "operating"
+  },
+  "last_updated": "2021-05-25",
+  "last_cited": "2022-10-25"
+}
