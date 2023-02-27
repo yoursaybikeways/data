@@ -1,7 +1,7 @@
 {
   "title": "Sydney Gateway",
   "url": "https://caportal.com.au/rms/sydney-gateway",
-  "authority": "",
+  "authority": "tfnsw",
   "tags": [
     {
       "key": "shared-path"
