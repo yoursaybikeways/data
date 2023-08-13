@@ -1,6 +1,6 @@
 {
   "title": "Oxford Street East Cycleway",
-  "url": "https://www.transport.nsw.gov.au/projects/current-projects/oxford-street-east-cycleway",
+  "url": "https://yoursay.transport.nsw.gov.au/oxford-street-east-cycleway",
   "authority": "tfnsw",
   "tags": [
     {
@@ -8,8 +8,11 @@
     }
   ],
   "state": {
-    "key": "under-review"
+    "key": "open-for-comment"
   },
   "last_updated": "2023-01-23",
-  "last_cited": "2023-01-23"
+  "last_cited": "2023-01-23",
+  "extra_links": [
+      "https://www.transport.nsw.gov.au/projects/current-projects/oxford-street-east-cycleway"
+  ]
 }
